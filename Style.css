@@ -112,7 +112,7 @@ body {
     position: absolute;
     top: 50%;
     left:50%;
-    text-align: justify;
+    text-align:justify;
     transform: translate(-50%, -50%);
 }
 
@@ -147,3 +147,6 @@ body {
         width: 80%;
     }
 }
+
+
+
